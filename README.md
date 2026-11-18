@@ -10,6 +10,10 @@ Die Seite besteht nur aus HTML, CSS und etwas JavaScript. Es ist kein Build-Schr
 
 [Screenshot als PNG herunterladen](screenshots/innocamp-bw-homepage-v1.0.1.png?raw=1)
 
+## Dokumentation für die Weiterentwicklung
+
+Die gemeinsame Grundlage für Architektur, Code- und Designstil sowie den sicheren Git-Workflow steht in der [Projektdokumentation](Docs/README.md).
+
 ## Veröffentlichung
 
 Der GitHub-Workflow veröffentlicht die Seite bei jedem Push auf `main`. Unter **Settings → Pages → Build and deployment** muss dafür einmalig **GitHub Actions** ausgewählt sein.
